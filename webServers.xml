@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8b1393b-b723-4467-b262-d2b0e46ddb4c" name="FacebookCheck" url="http://localhost/xenforo">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="fc668c1a-256b-48fe-bda4-9696f5f7a84c" name="localhost" url="http://localhost/~erik">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="173806e3-24ef-496b-a32d-061832acd21c" name="campmanage.local" url="http://campmanage.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
