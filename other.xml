@@ -63,4 +63,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="mvcRunTargetHistory">
+    <option value="#" />
+  </component>
 </application>
