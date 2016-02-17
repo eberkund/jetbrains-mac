@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration />
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="C:\Users\Erik\AppData\Roaming\Composer\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
 </application>
