@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
@@ -17,6 +20,10 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
