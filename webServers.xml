@@ -4,6 +4,9 @@
       <webServer id="fe41e420-d135-4967-9ba3-5c001df5c7e2" name="Armstrong" url="http://armstrong.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="917bb989-ceea-4dfc-a71b-aedcbd59f90e" name="camcontrol.local/" url="http://camcontrol.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
