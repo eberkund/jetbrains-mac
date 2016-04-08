@@ -11,5 +11,5 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
 </scheme>
